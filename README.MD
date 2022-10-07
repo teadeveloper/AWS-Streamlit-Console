@@ -38,14 +38,14 @@ Using virtual environment:
 
 ```shell
 # clone the repo
-git clone
-cd /
+git clone https://github.com/teadeveloper/AWS-Streamlit-Console.git
+cd  AWS-Streamlit-Console
 # Create virtual environment
 python3 -m venv ./venv && source venv/bin/activate
 # Install pre-reqs for 
 pip install -r requirements.txt
 #Run cloud explorer
-python 
+streamlit run Dashboard.py
 ```
 
 ## Contributing
