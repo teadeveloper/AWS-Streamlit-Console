@@ -1,0 +1,7 @@
+boto3
+yml
+pyyaml
+pandas
+hurry.filesize
+streamlit
+Pillow
